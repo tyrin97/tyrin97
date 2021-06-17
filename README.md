@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**tyrin97/tyrin97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Personal Profile/About me
+I am currently a Bachelor Student at the Waikato Institute of Technology.
+My pathway is Software Engineering because that is what I enjoy doing but I also quite enjoy Web Development.
+
+Education 
+Waikato Institute of Technology
+Level 3 Computing Certificate - 2017
+
+Waikato Institute of Technology
+Diploma in Applied Information Technology - 2019
+
+Waikato Institute of Technology
+Bachelor in Applied Information Technology - Present
+
+Skills: 
+Python
+Java
+Working knowledge of C,
+C++, and C#
+
+Other Skills: 
+Web Development
+Time Management
+
+Hobbies: 
+Gaming
+Game Development
+Cars
